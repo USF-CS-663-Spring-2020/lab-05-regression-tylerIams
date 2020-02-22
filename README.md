@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Tyler Iams
+**USF email address**:  taiams@dons.usfca.edu
